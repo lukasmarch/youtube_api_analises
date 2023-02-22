@@ -1,0 +1,8 @@
+.DS_Store
+.env
+bin/
+etc/
+lib/
+pyvenv.cfg
+requirements.txt
+share/
